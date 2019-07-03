@@ -1,0 +1,6 @@
+{   
+    "Alcool":{
+        "Principio_Ativo":["Clorpropamida","Glibenclamida","Glipizida","Glimepirida","Repaglinida","Nateglinida","Metformina","Acarbose","Pioglitazona","Sitagliptina","Vildagliptina","Saxagliptina","Linagliptina","Exenatida","Dapagliflozina","Empagliflozina","Canagliflozina"]},
+    "Uva":{
+        "Principio_Ativo":["Repaglinida"]}
+}
